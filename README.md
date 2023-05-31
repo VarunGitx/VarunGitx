@@ -1,7 +1,7 @@
 # Hi, I'm Varun!👋
 
-<h2>👨‍💻 Profile:</h2>
-💻 Hello! Welcome to my GitHub profile. I'm a student currently in my 3rd year of BSc (Hons) in Computer Science with a specialization in Cyber Security. I am passionate about exploring the vast world of technology and its applications, particularly in the realm of cybersecurity.
+<h2>💻Profile:</h2>
+Hello! Welcome to my GitHub profile. I'm a student currently in my 3rd year of BSc (Hons) in Computer Science with a specialization in Cyber Security. I am passionate about exploring the vast world of technology and its applications, particularly in the realm of cybersecurity.
 
 ## 🤳 Connect with me:
 <a href="https://www.linkedin.com/in/varun-senthilkumar/">
