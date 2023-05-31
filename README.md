@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Varun
 
-### Profile ![image](https://github.com/VarunGitx/VarunGitx/assets/114130939/25bcae67-cbda-43e7-b6e8-93fac37708f6)
+### Profile ![image](https://github.com/VarunGitx/VarunGitx/assets/114130939/405254cd-afc4-48cc-954b-dca78bd3d015)
+
 
 <!--
 **VarunGitx/VarunGitx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
